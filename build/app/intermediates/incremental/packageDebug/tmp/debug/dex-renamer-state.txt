@@ -1,0 +1,4 @@
+#Sun Nov 13 21:00:06 ICT 2022
+base.0=F\:\\Project\\tugas-mobile-Acara25-28\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
